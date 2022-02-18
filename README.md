@@ -17,7 +17,7 @@
 ```
 ## 🔮 Future of this project 
 
-In progress. 
+Finish. 
 
 ## ✉️ Contact
 
